@@ -19,8 +19,8 @@ permalink: /:year/:month/:day/:title/
 # other links
 github_username:  liinnux
 email: liinux@qq.com
-weibo_username: @test
-linkedin_username: test
+# weibo_username: @test
+# linkedin_username: test
 
 description_footer: 王捉虾的博客
 
