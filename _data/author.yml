@@ -1,7 +1,7 @@
 name: liinux
 email: liinux@qq.com
 image: "/images/Jaina.jpg"
-simpleIntro: 我是「王捉虾」，一个处在学习期的小白。
+simpleIntro: 我是「王捉虾」，一个处在学习期的菜鸟。
 WebsiteIntro:
     <h2 id="welcome-to-my-website">Welcome to My Website</h2>
     <p>This is the place where I share my ideas.You can also visit me on <a href="http://blog.csdn.net/h3243212/">@CSDN</a> or <a href="http://my.oschina.net/brianway">@oschina</a>.</P>
